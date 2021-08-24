@@ -11,3 +11,5 @@ Ola, me chamo Wilton, sou estudante de sistema de informaçoes, com interesse em
 -Posso ajudar com duvidas relacionado a tecnologia
 
 -Para entrar em contato basta, acessar algum desses canais que disponibilizei acima!
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerwillclefy&layout=compact&theme=radical" alt="My Github Stats">
