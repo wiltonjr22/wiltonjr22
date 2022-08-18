@@ -1,12 +1,20 @@
-Ola, me chamo Wilton, sou estudante de sistema de informaçoes, com interesse em programação, atualmente trabalhando como desenvolvedor no back-end utilizando principalmente node.js e sql
+Desenvolvedor backend focado em se tornar um especialista em nodeJS e com certo interesse por arquitetura de sistemas web.
+Conto com experiência na área de TI desde 2019 e em desenvolvimento web a partir de 2021, no qual ja atuei em projetos com:
+♦ Omnichanel com IA
+♦ Logistica e e-commerce
+Minhas demais habilidades principalmente são:
+♦ Bom domínio de javascript(typescript)
+♦ Conhecimento em bancos relacionais como postgresql e oracle
+♦ Não relacionais com redis
+♦ Mensageria com rabbitmq e algumas tecnologias aws como elastic-search...
+
+Cursando Sistema de Informação 2022.7
 
 -wiltonsousajr@hotmail.com
 
--https://www.linkedin.com/in/wilton-souza-189209187/
+-https://www.linkedin.com/in/wilton-souza-junior/
 
--Atualmente trabalho em uma startup chamada Newavetelecom
-
--Procuro participar de projetos open-source da comunidade
+-Atualmente tenho minha propria empresa e presto serviços em backend
 
 -Posso ajudar com duvidas relacionado a tecnologia
 
