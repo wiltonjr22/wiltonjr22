@@ -14,8 +14,6 @@ Cursando Sistema de Informação 2022.7
 
 -https://www.linkedin.com/in/wilton-souza-junior/
 
--Atualmente tenho minha propria empresa e presto serviços em backend
-
 -Posso ajudar com duvidas relacionado a tecnologia
 
 -Para entrar em contato basta, acessar algum desses canais que disponibilizei acima!
