@@ -1,4 +1,4 @@
-Desenvolvedor full cycle formado em Sistema de Informação focado em se tornar um especialista e com certo interesse por arquitetura de sistemas web.
+ formado em Sistema de Informação focado em se tornar um especialista e com certo interesse por arquitetura de sistemas web.
 Conto com experiência na área de TI desde 2019 e em desenvolvimento web a partir de 2021, no qual ja atuei em projetos com:
 ♦ Omnichanel com IA
 ♦ Logistica 
